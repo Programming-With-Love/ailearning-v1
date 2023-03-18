@@ -44,24 +44,24 @@ ApacheCN 的 AI 相关项目告一段落，请大家关注我们的其他计划�
 ### Docker
 
 ```
-docker pull apachecn0/ailearning
-docker run -tid -p <port>:80 apachecn0/ailearning
+docker pull ailearning-v1
+docker run -tid -p <port>:80 ailearning-v1
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install apachecn-ailearning
-apachecn-ailearning <port>
+pip install ailearning-v1
+ailearning-v1 <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g ailearning
-ailearning <port>
+npm install -g ailearning-v1
+ailearning-v1 <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
