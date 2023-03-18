@@ -14,8 +14,8 @@
 > 
 > 一种新技术一旦开始流行，你要么坐上压路机，要么成为铺路石。——Stewart Brand
 
-* [在线阅读](https://ailearning.apachecn.org)
-* [在线阅读（Gitee）](https://apachecn.gitee.io/ailearning)
+* [在线阅读](https://alv1.apachecn.org)
+* [在线阅读（Gitee）](https://apachecn.gitee.io/ailearning-v1)
 * [ApacheCN 面试求职交流群 724187166](https://jq.qq.com/?_wv=1027&k=54ujcL3)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
 
